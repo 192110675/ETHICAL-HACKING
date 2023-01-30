@@ -1,0 +1,5 @@
+>> cd ..
+>> gem install bundler
+>> bundle install
+>> gem install bundler:[version number]
+>> cd /root
